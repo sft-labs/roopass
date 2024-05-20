@@ -3,6 +3,7 @@ import SolvLogo from "../public/solv-logo.svg";
 import UnizonLogo from "../public/unizon-logo.svg";
 import zCloakLogo from "../public/zCloak-logo.svg";
 import SFTLabsLogo from "../public/SFTLabs.svg";
+import AmpleLogo from "../public/ample_logo.svg"
 
 export default function Testimonials() {
   return (
@@ -86,8 +87,8 @@ export default function Testimonials() {
             >
               <Image
                 className="md:max-w-none mx-auto rounded"
-                src={UnizonLogo}
-                width={160}
+                src={AmpleLogo}
+                width={215}
                 height={457}
                 alt="UnizonLogo"
               />
